@@ -1,27 +1,13 @@
-# TstunasBlog
+# tstunas의 개발 블로그
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.1.0.
+## 설명
+tstunas의 개발 블로그는 Angular SSR과 Firebase 리소스를 활용하여 구축된 웹사이트입니다. 이 프로젝트는 HTML, CSS, 타입스크립트의 숙련도를 높이고, Angular의 새로운 기능들을 실험하는 테스트베드로서의 역할을 합니다.
 
-## Development server
+## 동기
+이 블로그는 Firebase 리소스를 활용한 개발 연습과 Angular의 다양한 기능을 실험하기 위해 시작되었습니다. 개인적인 숙련도 향상과 지식 확장을 목적으로 합니다.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## 비주얼
+현재 대표 이미지나 로고는 준비되어 있지 않지만, 프로젝트의 정체성과 매력을 담을 수 있는 비주얼을 고려 중입니다.
 
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+## 설치 및 사용
+이 프로젝트는 개인적인 목적으로 개발되었으며, 일반 사용자를 위한 설치 및 사용 가이드는 제공되지 않습니다.
